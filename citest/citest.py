@@ -4,8 +4,8 @@ def foobar():
     Test function
 
     Returns:
-        None
+        0
 
     """
 
-    pass
+    return 0
