@@ -1,0 +1,7 @@
+-e .
+pytest
+mock
+wheel
+pylint
+isort
+flake8
